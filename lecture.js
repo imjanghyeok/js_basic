@@ -102,7 +102,7 @@ const triple = arr.map((num) => num * 3);
 console.log(triple); // [3, 6, 9, 12, 15]
 
 // for of
-for (element of arr) {
+for (letelement of arr) {
   console.log(element);
 }
 
